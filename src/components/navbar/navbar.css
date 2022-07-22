@@ -1,0 +1,12 @@
+.Navbar div{
+    display: flex;
+   justify-content: right;
+   border-radius: solid 10 px black ;
+   margin: 10px;
+   
+}
+.button{
+    border: 100px salmon;
+    padding: 30px;
+
+}
